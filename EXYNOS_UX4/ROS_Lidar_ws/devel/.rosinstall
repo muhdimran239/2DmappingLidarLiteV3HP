@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/odroid/fake_laser/devel/setup.sh
